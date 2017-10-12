@@ -8,3 +8,6 @@ Chrome安装的扩展程序其实都保存在本地磁盘了。Win7系统下Chro
 ## 查看需要打包的扩展程序的ID
 在Chrome的扩展程序页中，可以看到每个安装的扩展的ID（都是唯一的）和版本
 
+
+## Surfingkeys
+谨以此备份神器Surfingkeys 0.9.10_0
