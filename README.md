@@ -11,3 +11,6 @@ Chrome安装的扩展程序其实都保存在本地磁盘了。Win7系统下Chro
 
 ## Surfingkeys
 谨以此备份神器Surfingkeys 0.9.10_0
+
+## insightio-for-github
+Github代码查看神器
