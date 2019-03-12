@@ -17,3 +17,6 @@ Github代码查看神器
 
 ## 彩云小译
 在每一句英文的下面翻译成中文，太好用了
+
+## 悬浮出哪个口
+https://chrome.google.com/webstore/detail/separate-window/cbgkkbaghihhnaeabfcmmglhnfkfnpon/related
