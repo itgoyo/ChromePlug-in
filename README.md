@@ -20,3 +20,5 @@ Github代码查看神器
 
 ## 悬浮出哪个口
 https://chrome.google.com/webstore/detail/separate-window/cbgkkbaghihhnaeabfcmmglhnfkfnpon/related
+
+配合`window on top`一起用，感觉完美
